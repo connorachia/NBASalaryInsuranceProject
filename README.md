@@ -105,13 +105,13 @@ While industry target is ~70–80%, a lower value reflects:
 ## Example- Golden State Warriors: Salary Insurance Analysis
 
 ### Estimated Annual Premiums
-![GSW Estimated Annual Premiums](assets/projectpremiums.png)
+![GSW Estimated Annual Premiums](projectpremiums.png)
 
 ### Estimated Percentage of Contract for Premiums
-![GSW Estimated Percentage of Contract for Premiums](assets/projectpercentages.png)
+![GSW Estimated Percentage of Contract for Premiums](projectpercentages.png)
 
 ### Estimated Loss Ratios
-![GSW Estimated Loss Ratios](assets/projectlossratios.png)
+![GSW Estimated Loss Ratios](projectlossratios.png)
 
 
 ## 📂 Files
