@@ -132,3 +132,23 @@ While industry target is ~70–80%, a lower value reflects:
 ## 📬 Contact
 
 Feel free to reach out if you’re interested in sports analytics, actuarial science, or insurance modeling!
+
+## References
+
+1. ["Claim Game" – The Economist (2013)](https://www.economist.com/finance-and-economics/2013/01/26/claim-game)  
+   Overview of the sports insurance industry and claim dynamics.
+
+2. [NBA Player Contracts – Basketball Reference](https://www.basketball-reference.com/contracts/)  
+   Source for player salary and contract data.
+
+3. [NBA Player Stats & Comparisons – StatMuse](https://www.statmuse.com/nba)  
+   Used for quick player queries and historical data.
+
+4. ["Insuring the Stars" – ESPN (2003)](https://www.espn.com/sportsbusiness/s/2003/0311/1521986.html)  
+   Insight into how disability insurance was handled in the early 2000s.
+
+5. ["New Deal to Give NBA Players $2.5M Disability Insurance" – ESPN (2020)](https://www.espn.com/nba/story/_/id/29566104/new-deal-give-nba-players-25m-disability-insurance-sources-say)  
+   Details on recent insurance policy updates for NBA players.
+
+6. [Report: NBA Raises Insurance Payout to $2.5M for Career-Ending Injuries – NBC Sports](https://www.nbcsports.com/nba/news/report-nba-raises-insurance-payout-to-2-5-million-for-career-ending-injuries)  
+   Confirmation of increased policy limits for career-ending injuries.
