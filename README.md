@@ -115,12 +115,15 @@ While industry target is ~70–80%, a lower value reflects:
 
 ## Project Difficulties and Solutions
 Problem #1: The data did not account for playoff games and only regular season games. 
+
 Solution: The maximum amount of playoff games (including the NBA play-in games) is 30 games. This number is greatly reduced as many teams do not make it to the NBA Finals and also each playoff series rarely makes it to seven games, thus the playoff games played by each NBA player are significantly reduced. With playoff games being only a small percentage of games played, the injury percentage will only experience a small change that will not significantly affect the premium. If this change is desired to be explored in future projects, one can calculate the probability each player will make the playoffs and also the expected amount of games played. One can then either add a playoff loading factor to the premium formula or add directly to the amount of games played in a season (including playoffs) to calculate a new injury percentage.
 
 Problem #2: The data does not take into account DNP's (Did Not Play) as the data provided doesn't have an explanation on why each NBA missed certain games. 
+
 Solution: This problem only has a marginal effect on premiums as most players within the top five don't get too many DNP's. Most of their DNP's occur during the beginning of their careers because rookies tend to be played less, but a solution was developed by using a weighted average for the amount of games missed per season (60% for overall carreer, which is the portion afffected by early career DNP's and 40% past two season, which have little to no DNP's). 
 
 Problem #3: Data for players with only one season played was being incorrectly displayed.
+
 Solution: Because the weighted average for games missed relied on at least two or more seasons played, the premium for players with only one season played was incorrect. This was corrected by adjusting the 40% part of the weighted average for games missed by multiplying games missed within last two season by two in order not to mess up this weighted average.
 
 
